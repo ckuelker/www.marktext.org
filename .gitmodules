@@ -1,3 +1,6 @@
 [submodule "t4mf"]
 	path = t4mf
 	url = https://github.com/ckuelker/t4mf.git
+[submodule "pankyll-pandoc"]
+	path = pankyll-pandoc
+	url = https://github.com/ckuelker/pankyll-pandoc.git
